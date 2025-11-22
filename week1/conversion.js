@@ -20,6 +20,8 @@ console.log("16" - 10);
 console.log(16 - "10");
 console.log(16 - "10a"); // NaN = not a number
 
+// 5 - 2; here "-" is binary operator.
+// -2; here "-" is unary operator.
 console.log("5" + - 2);
 console.log("5" - - 2);
 
