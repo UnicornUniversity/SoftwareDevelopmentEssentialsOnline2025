@@ -1,0 +1,30 @@
+BUBBLE
+--------------------------------
+-- small
+number of iterations = 6; time taken = 0.01300000000000523
+-- best
+number of iterations = 198; time taken = 0.054400000000001114
+-- worst
+number of iterations = 9900; time taken = 0.8044000000000011
+-- mixed
+number of iterations = 6534; time taken = 0.30859999999999843
+
+
+----------------------------------------------
+SELECTION
+
+number of iterations = 3; time taken = 0.011299999999998533
+number of iterations = 99; time taken = 0.2154999999999987
+number of iterations = 99; time taken = 0.18789999999999907
+number of iterations = 99; time taken = 0.30930000000000035
+
+----------------------------------------------
+QUICK
+
+number of iterations = 6; time taken = 0.06459999999999866
+number of iterations = 5025; time taken = 0.9508999999999972
+number of iterations = 10074; time taken = 1.0210000000000008
+number of iterations = 10650; time taken = 0.066599999999994
+
+
+
